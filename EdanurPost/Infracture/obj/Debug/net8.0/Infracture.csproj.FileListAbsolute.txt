@@ -1,0 +1,17 @@
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.csproj.AssemblyReference.cache
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.AssemblyInfoInputs.cache
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.AssemblyInfo.cs
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.csproj.CoreCompileInputs.cache
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\bin\Debug\net8.0\Infracture.deps.json
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\bin\Debug\net8.0\Infracture.dll
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\bin\Debug\net8.0\Infracture.pdb
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\bin\Debug\net8.0\Domain.dll
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\bin\Debug\net8.0\Domain.pdb
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.csproj.CopyComplete
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.dll
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\refint\Infracture.dll
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.pdb
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\ref\Infracture.dll
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\bin\Debug\net8.0\Infracture.runtimeconfig.json
+D:\Users\cihana\Desktop\EdanurPost\EdanurPost\Infracture\obj\Debug\net8.0\Infracture.genruntimeconfig.cache

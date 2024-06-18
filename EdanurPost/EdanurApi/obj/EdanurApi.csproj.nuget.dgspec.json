@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\EdanurApi\\EdanurApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\Abstract.csproj",
+        "projectName": "Abstract",
+        "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\Abstract.csproj",
+        "packagesPath": "D:\\Users\\cihana\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\cihana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Application\\Application.csproj",
+        "packagesPath": "D:\\Users\\cihana\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\cihana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\Abstract.csproj": {
+                "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\Abstract.csproj"
+              },
+              "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Infracture\\Infracture.csproj": {
+                "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Infracture\\Infracture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\Domain.csproj",
+        "packagesPath": "D:\\Users\\cihana\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\cihana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\EdanurApi\\EdanurApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\EdanurApi\\EdanurApi.csproj",
+        "projectName": "EdanurApi",
+        "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\EdanurApi\\EdanurApi.csproj",
+        "packagesPath": "D:\\Users\\cihana\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\EdanurApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\cihana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\Abstract.csproj": {
+                "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Abstract\\Abstract.csproj"
+              },
+              "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Application\\Application.csproj": {
+                "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Infracture\\Infracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Infracture\\Infracture.csproj",
+        "projectName": "Infracture",
+        "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Infracture\\Infracture.csproj",
+        "packagesPath": "D:\\Users\\cihana\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Infracture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\cihana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Users\\cihana\\Desktop\\EdanurPost\\EdanurPost\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
